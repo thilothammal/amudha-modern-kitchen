@@ -1,4 +1,4 @@
-# 🏠 Amudha Modern Kitchen – Cupboard Works Website
+# 🏠  Modern cupboards Works Website
 
 A responsive, visually engaging website for a local modular kitchen brand, showcasing cupboard designs and finishes. Built with HTML and CSS, and deployed using GitHub Pages with CI/CD automation via GitHub Actions.
 
